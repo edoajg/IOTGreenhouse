@@ -1,6 +1,6 @@
 # IOTGreenhouse
 
-Greenhouse controller for arduino-like SOS. I used a D1 mini pro on this project in particular.
+Greenhouse controller for Arduino-like SoC. I used a Wemos D1 mini pro on this project in particular.
 
 It works with Blynk IOT platform.
 
