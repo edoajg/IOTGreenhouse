@@ -2,7 +2,7 @@
 
 Greenhouse controller for Arduino-like SoC. I used a Wemos D1 mini pro on this project in particular.
 
-It works with Blynk IOT platform.
+It works with Blynk IOT platform for monitoring and manual control.
 
 Inputs:
 * Ambient Temperature (DHT11 sensor)
